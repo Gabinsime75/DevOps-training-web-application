@@ -37,4 +37,4 @@ docker push ........
 ```
 Now, we should navigate to the Terraform folder and run `terraform init`.
 
-We should run `terraform apply --auto-approve'
+We should run `terraform apply --auto-approve`
