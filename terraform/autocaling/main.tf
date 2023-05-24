@@ -1,3 +1,4 @@
+# presentation tier
 resource "aws_autoscaling_group" "presentation_tier" {
   name                      = "ASG-Presentation-Tier"
   max_size                  = 4
