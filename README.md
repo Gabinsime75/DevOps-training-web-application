@@ -1,4 +1,4 @@
-## Vocational-training-web-application
+## DevOps-training-web-application
 This is 3-tier application deployment on AWS using Terraform and Docker.
 In this blog post, we will build a highly available application on top of AWS cloud services. 
 To make more sence to the architecture we have imagine the folowing scenario
