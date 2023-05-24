@@ -1,3 +1,4 @@
+// This code is a Node.js script that uses the Express framework and the MySQL module to create a web server that interacts with a MySQL database
 import express from 'express';
 import mysql from 'mysql';
 
